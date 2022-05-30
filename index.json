@@ -1,0 +1,47 @@
+{
+  "status":"ok",
+  "chotabheen":{
+    "name":"Choota Bheem",
+    "description":"Bheem is an extremely brave, strong and intelligent young boy. He often manages to solve everyone's problems which endears him to the townspeople of Dholakpur.", "image":"https://www.dropbox.com/s/sj0ykoau5zxxzaq/bheem.jpg?raw=1"
+  },
+  "doraemon":{
+    "name":"Doraemon",
+    "description":"Doraemon, a robotic cat, travels back in time from the 22nd century to aid a schoolboy named Nobita and teach him important lessons about integrity, courage, family values and respect for elders.",
+    "image":"https://www.dropbox.com/s/f27poh7wv0kysqf/85832fe5e9216c224d5855f12afb4216-2.jpg?raw=1"
+  }, 
+  "batman":{
+    "name":"The Batman",
+    "description":"Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator's plans become clear, he must forge new relationships, unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.",
+    "image":"https://www.dropbox.com/s/kq7itpj4h2jcwzi/1033318.jpg?raw=1"
+  }, 
+  "pokemon":{
+    "name":"Pokémon",
+    "description":"Ash Ketchum is 10 years old and ready to start his journey in the world of Pokémon and dreams of becoming a Pokémon master, but on the day he is to receive his first Pokémon, Ash oversleeps and wakes up in a panic, running into Gary Oak, who becomes Ash's rival.",
+    "image":"https://www.dropbox.com/s/hiu251eldkijl0w/747836.jpg?raw=1"
+  },
+   "pokémon":{
+    "name":"Pokémon",
+    "description":"Ash Ketchum is 10 years old and ready to start his journey in the world of Pokémon and dreams of becoming a Pokémon master, but on the day he is to receive his first Pokémon, Ash oversleeps and wakes up in a panic, running into Gary Oak, who becomes Ash's rival.",
+    "image":"https://www.dropbox.com/s/hiu251eldkijl0w/747836.jpg?raw=1"
+  },
+  "tomandjerry":{
+    "name":"Tom and Jerry",
+    "description":"Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerry.",
+    "image":"https://www.dropbox.com/s/c15fg8i2t3op246/215449.jpg?raw=1"
+  }, 
+  "thepowerpuffgirls":{
+    "name":"The Powerpuff Girls", 
+    "description":"Blossom, Bubbles and Buttercup have many adventures while protecting the world from mad scientists, bank robbers and aliens with the help of their special powers.",
+    "image":"https://www.dropbox.com/s/u8n68djqaebyxt4/1196919.jpg?raw=1"
+  },
+  "scooby-doo":{
+    "name":"Scooby-Doo Where Are You!",
+    "description":"Brainiac Velma, jock Fred, fashionista Daphne, hippie Shaggy, and Shaggy's highstrung, talking Great Dane, Scooby-Doo, climb into their green van, the Mystery Machine, and hit the road in search of weird phenomena to solve. And even when Scooby and the gang aren't actively searching for them, mysteries just have a way of falling into their laps.",
+    "image":"https://www.dropbox.com/s/rnur5ifrinc0bb3/tv-show-scooby-doo-artistic-cartoon-wallpaper-preview.jpg?raw=1"
+  }, 
+  "scooby-doowhereareyou":{
+       "name":"Scooby-Doo Where Are You!",
+    "description":"Brainiac Velma, jock Fred, fashionista Daphne, hippie Shaggy, and Shaggy's highstrung, talking Great Dane, Scooby-Doo, climb into their green van, the Mystery Machine, and hit the road in search of weird phenomena to solve. And even when Scooby and the gang aren't actively searching for them, mysteries just have a way of falling into their laps.",
+    "image":"https://www.dropbox.com/s/rnur5ifrinc0bb3/tv-show-scooby-doo-artistic-cartoon-wallpaper-preview.jpg?raw=1"
+  }
+}
